@@ -26,7 +26,7 @@ git clone https://github.com/yourusername/react-keep-app.git
 2. Navigate to the project directory:
 
 ```bash
-cd react-keep-app
+cd KeepApp-React.js
 ```
 
 3. Install dependencies:

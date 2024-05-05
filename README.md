@@ -17,11 +17,7 @@ Welcome to React Keep App! This is a note-taking application built using React.j
 
 To run this app locally, follow these steps:
 
-1. Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/react-keep-app.git
-```
+1. Clone the repository
 
 2. Navigate to the project directory:
 
